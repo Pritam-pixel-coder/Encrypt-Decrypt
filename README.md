@@ -1,7 +1,6 @@
 # Caesar Cipher Encode & Decode 
 *The method is named after Julius Caesar, who used it in his private correspondence.*
 
-
 ---
 
 ## About Caesar Cipher
@@ -19,14 +18,12 @@ Ciphertext: `KHOOR`
 ---
 
 ## Features
-
 - Encode text using a shift value  
 - Decode text using the same shift value  
 - Wraps around the alphabet automatically  
 - Non-alphabetic characters remain unchanged  
 
 ---
-
 
 ## Encoding
 - Input: HELLO WORLD
@@ -38,3 +35,10 @@ Ciphertext: `KHOOR`
 - Shift: 3
 - Output: HELLO WORLD
 
+---
+
+### Installation & Launch
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Pritam-pixel-coder/Encrypt-Decrypt.git
+   cd Encrypt-Decrypt
